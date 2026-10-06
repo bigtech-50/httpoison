@@ -1,0 +1,9 @@
+/_build
+/ebin
+/deps
+/doc
+erl_crash.dump
+*.ez
+/.idea
+*.iml
+/.elixir_ls
